@@ -1,9 +1,10 @@
 
 {
   "name": "deromanize-component",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Convert a string in roman numerical format to a number",
   "author": "Damian Suarez <rdsuarez@gmail.com>",
+  "twitter": "@retrofox",
   "keywords": ["component", "string", "deromanize"],
   "dependencies": {},
   "devDependencies": {
